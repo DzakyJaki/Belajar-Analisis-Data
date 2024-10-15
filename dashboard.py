@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplolib.pyplot as plt
+import matplotlib.pyplot as plt
 
 day_df = pd.read_csv('day.csv')
 
